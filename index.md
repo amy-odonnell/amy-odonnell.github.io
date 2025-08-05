@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/work.jpg
     title: "Posts"
     excerpt: "Discover a selection of impactful posts."
-    url: "/projects/"
+    url: "/posts/"
     btn_label: "View posts"
     btn_class: "btn--primary"
   - image_path: /assets/images/contact.jpg
