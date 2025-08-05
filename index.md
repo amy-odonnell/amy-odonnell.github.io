@@ -16,12 +16,13 @@ header:
       class: "btn btn--primary"
     - label: "Let’s Connect"
       url: "/contact/"
-      class: "btn btn--primary"     
+      class: "btn btn--primary"
 excerpt: >
   <img src="/assets/images/bio-photo.jpg" style="border-radius: 50%; width: 150px; margin-bottom: 10px;"><br>
   Digital Inclusion · Social Impact · Ethical Tech  
   <br>
   I'm a digital inclusion and online safety expert shaping ethical technology to benefit society.
+---
 
 <section class="recent-posts" style="margin-top: 3rem;">
   <h2>Recent Posts</h2>
