@@ -3,6 +3,6 @@ layout: collection
 title: "Posts"
 permalink: /posts/
 collection: posts
-entries_layout: list
+entries_layout: grid
 author_profile: true
 ---
