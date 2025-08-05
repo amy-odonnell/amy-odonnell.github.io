@@ -12,6 +12,7 @@ tags:
   - digital skills
   - youth
   - accessibility
+author_profile: true
 ---
 
 Nominet's ongoing efforts to maintain .UK as a critical part of our national infrastructure highlights just how important the internet is for everyone's security, wellbeing, and safety. Yet, opening the news on your phone, watching a video to learn a skill or applying for a job online isn't a given for everyone in the UK. This year's [Get Online Week](https://www.goodthingsfoundation.org/discover/get-online-week) provides an important opportunity to raise awareness about the resources available to help individuals not only get connected, but also feel secure and confident online.

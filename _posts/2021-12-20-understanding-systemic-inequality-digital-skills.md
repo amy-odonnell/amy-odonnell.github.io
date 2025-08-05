@@ -12,6 +12,7 @@ tags:
   - social impact
   - inclusion
   - diversity
+author_profile: true
 ---
 
 Digital skills can be positively transformative for some young people, in terms of their education, social life, future employment and career progression, though it is a true marker of disadvantage and displacement for those without them. But ‘digital skills’ can be a broad term, covering a wide range of competencies and interpreted differently by different stakeholders. More needs to be done to uncover the root causes for why so many young people remain excluded from work due to inaccessible digital skills or specifically within digital roles requiring advanced skills.
