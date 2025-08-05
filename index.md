@@ -13,7 +13,7 @@ header:
       url: "/contact/"
       class: "btn btn--light-outline"
 excerpt: >
-  <img src="/assets/images/bio-photo.jpg" alt="Amy O'Donnell" style="border-radius: 50%; width: 150px; margin-bottom: 10px;"><br>
+  <img src="/assets/images/bio-photo.jpg" style="border-radius: 50%; width: 150px; margin-bottom: 10px;"><br>
   Digital Inclusion · Social Impact · Ethical Tech  
   <br>
   I'm a digital inclusion and online safety expert shaping ethical technology to benefit society.
