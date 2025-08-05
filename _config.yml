@@ -63,22 +63,32 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Amy O'Donnell"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Digital inclusion • Social impact • Ethical tech"
+  name: "Amy O'Donnell"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: >
+    Digital inclusion • Social impact • Ethical tech  
+    Based in Oxford, UK  
+    Digital Inclusion Lead at Nominet
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://amyodonnell.co.uk"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amy-o-donnell-17751518/"
     - label: "X"
       icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/"
+      url: "https://x.com/yourhandle"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/amy-odonnell"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/yourhandle"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/assets/docs/amy-odonnell-cv.pdf"
+
 
 footer:
   links:
