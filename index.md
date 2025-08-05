@@ -1,9 +1,11 @@
 ---
 layout: splash
+title: "Amy O'Donnell"
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/coverconcretewall.jpg
+  overlay_image: /assets/images/cover.jpg
   caption: "Photo credit: [**freepik**](https://www.freepik.com)"
   actions:
     - label: "About Me"
@@ -36,9 +38,18 @@ feature_row:
     url: "/contact/"
     btn_label: "Get in touch"
     btn_class: "btn--primary"
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-
 ---
 
 {% include feature_row %}
+
+<section class="recent-posts" style="margin-top: 3rem;">
+  <h2>Recent Posts</h2>
+  <ul class="posts-list">
+    {% for post in site.posts limit:3 %}
+      <li style="margin-bottom: 1.5rem;">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt | markdownify }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
