@@ -3,8 +3,8 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/covermegaphone.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/coverconcretewall.jpg
+  caption: "Photo credit: [**freepik**](https://www.freepik.com))"
   actions:
     - label: "About Me"
       url: "/about/"
