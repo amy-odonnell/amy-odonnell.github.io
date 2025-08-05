@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/cover.jpg
+  overlay_image: /assets/images/coverconcretewall.jpg
   caption: "Photo credit: [**freepik**](https://www.freepik.com)"
   actions:
     - label: "About Me"
@@ -44,12 +44,22 @@ feature_row:
 
 <section class="recent-posts" style="margin-top: 3rem;">
   <h2>Recent Posts</h2>
-  <ul class="posts-list">
-    {% for post in site.posts limit:3 %}
-      <li style="margin-bottom: 1.5rem;">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p>{{ post.excerpt | markdownify }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+
+  {% assign recent_posts = site.posts | slice: 0, 3 %}
+  {% assign thumbnails = "" | split: "" %}
+
+  {% for post in recent_posts %}
+    {% assign thumbnails = thumbnails | push: 
+      {
+        "title": post.title,
+        "excerpt": post.excerpt,
+        "url": post.url,
+        "image_path": post.image,
+        "btn_label": "Read more",
+        "btn_class": "btn--primary"
+      } 
+    %}
+  {% endfor %}
+
+  {% include feature_row items=thumbnails %}
 </section>
