@@ -20,21 +20,18 @@ excerpt: >
   I'm a digital inclusion and online safety expert shaping ethical technology to benefit society.
 feature_row:
   - image_path: /assets/images/about.jpg
-    alt: "About Amy"
     title: "About Amy"
-    excerpt: "Learn more about my background, values, and the work I do to build a more inclusive digital world."
+    excerpt: "Learn more about my background, values, and the work I do."
     url: "/about/"
     btn_label: "Read more"
     btn_class: "btn--primary"
   - image_path: /assets/images/work.jpg
-    alt: "Projects"
-    title: "Featured Work"
-    excerpt: "Discover a selection of impactful projects and partnerships I’ve been part of."
+    title: "Posts"
+    excerpt: "Discover a selection of impactful posts."
     url: "/projects/"
-    btn_label: "View projects"
+    btn_label: "View posts"
     btn_class: "btn--primary"
   - image_path: /assets/images/contact.jpg
-    alt: "Contact"
     title: "Let’s Connect"
     excerpt: "Interested in collaborating or learning more? I'd love to hear from you."
     url: "/contact/"
