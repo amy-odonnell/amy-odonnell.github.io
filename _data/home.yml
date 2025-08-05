@@ -1,0 +1,8 @@
+about_me:
+  - image_path: /assets/images/bio-photo.jpg
+    alt: "Amy O'Donnell"
+    title: "Amy O'Donnell"
+    excerpt: "Digital Inclusion · Social Impact · Ethical Tech.<br>Shaping ethical technology to benefit society."
+    url: /about/
+    btn_label: "Learn more"
+    btn_class: "btn--primary"
