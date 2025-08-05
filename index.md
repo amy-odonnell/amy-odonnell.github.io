@@ -28,20 +28,21 @@ excerpt: >
   <h2>Recent Posts</h2>
 
   {% assign recent_posts = site.posts | slice: 0, 3 %}
-  {% assign thumbnails = "" | split: "" %}
 
-  {% for post in recent_posts %}
-    {% assign thumbnails = thumbnails | push: 
-      {
-        "title": post.title,
-        "excerpt": post.excerpt,
-        "url": post.url,
-        "image_path": post.image,
-        "btn_label": "Read more",
-        "btn_class": "btn--primary"
-      } 
-    %}
-  {% endfor %}
-
-  {% include feature_row items=thumbnails %}
+  <div class="entries-plain">
+    {% for post in recent_posts %}
+      <article class="archive__item">
+        <h3 class="archive__item-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        {% if post.excerpt %}
+          <p class="archive__item-excerpt">
+            {{ post.excerpt | strip_html | truncate: 160 }}
+          </p>
+        {% endif %}
+        <p><a href="{{ post.url | relative_url }}" class="btn btn--primary">Read more</a></p>
+      </article>
+    {% endfor %}
+  </div>
 </section>
+
