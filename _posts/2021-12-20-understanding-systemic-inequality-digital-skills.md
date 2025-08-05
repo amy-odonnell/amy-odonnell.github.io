@@ -2,7 +2,6 @@
 layout: single
 title: "Understanding Systemic Inequality in Digital Skills"
 date: 2021-12-20
-author: "Amy O'Donnell"
 excerpt: "A look into the barriers young people face in developing digital skills — and how employers, government, and youth services can work together to close the gap."
 categories: 
   - blog

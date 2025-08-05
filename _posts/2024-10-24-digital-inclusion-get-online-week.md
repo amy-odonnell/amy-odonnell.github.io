@@ -2,7 +2,6 @@
 layout: single
 title: "Digital Inclusion and Get Online Week"
 date: 2024-10-24
-author: "Amy O'Donnell"
 excerpt: "This year's Get Online Week highlights the urgent need to support digital inclusion across the UK."
 tags: [digital inclusion, online safety, digital skills, youth, accessibility]
 author_profile: true
