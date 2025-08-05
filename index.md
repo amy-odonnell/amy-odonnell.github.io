@@ -36,6 +36,9 @@ feature_row:
     url: "/contact/"
     btn_label: "Get in touch"
     btn_class: "btn--primary"
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
 ---
 
 {% include feature_row %}
