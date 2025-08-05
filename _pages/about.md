@@ -1,8 +1,32 @@
 ---
+layout: single
+title: "About Me"
 permalink: /about/
-title: "About"
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Amy O'Donnell — a digital inclusion and online safety specialist with a deep commitment to ethical and impactful technology.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’ve spent over a decade working at the intersection of social change, community empowerment, and digital innovation. Whether supporting grassroots organisations to navigate the online world safely or advising on policy frameworks that promote responsible tech development, my focus is on ensuring no one is left behind in our digital future.
+
+### What I Do
+
+- **Digital Inclusion**: Championing equitable access to technology, especially for underrepresented and vulnerable communities.
+- **Online Safety**: Supporting individuals and organisations to build safer online environments.
+- **Ethical Tech**: Advising on responsible, rights-based approaches to technology design and deployment.
+- **Storytelling for Change**: Elevating voices and narratives that inspire action and drive digital rights forward.
+
+### Core Values
+
+- 🌱 **Empowerment over extraction**  
+- 🤝 **Collaboration over competition**  
+- 🌍 **Impact over hype**
+
+### Why It Matters
+
+Technology has enormous potential to improve lives — but only if it's built and implemented with care, inclusivity, and integrity. I work with organisations, funders, and developers to put people at the centre of digital transformation.
+
+---
+
+📬 **Want to collaborate or chat?**  
+Feel free to connect on [LinkedIn](https://linkedin.com/in/amy-o-donnell-17751518).
