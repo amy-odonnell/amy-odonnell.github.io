@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/cover.jpg
+  overlay_image: /assets/images/cover.png
   actions:
     - label: "About Me"
       url: "/about/"
